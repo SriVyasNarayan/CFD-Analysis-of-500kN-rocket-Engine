@@ -1,3 +1,8 @@
+The design of the rocket engine was found to be within 7% error from the numerical caluclations and the parameters obtained using the MATLAB code. This error could have been due to the lack of CEA accounting for losses in frozen chemistry which was accounted for in ANSYS Fluent during the species transport of Hydrogen as fuel and Oxygen as oxidiser. 
+
+
+
+
 <img width="1911" height="1069" alt="mesh" src="https://github.com/user-attachments/assets/9e2a7fe4-e86e-4511-a003-b79839dbbe9b" />
 <img width="1218" height="612" alt="mass number contour 2" src="https://github.com/user-attachments/assets/536fc527-ec7f-42c9-90d7-155863b2cb59" />
 <img width="1214" height="598" alt="mass fraction of h2o" src="https://github.com/user-attachments/assets/fa5704a3-c732-4fa7-b7c2-25e37945a0b2" />
