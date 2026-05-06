@@ -1,4 +1,5 @@
 The design of the rocket engine was found to be within 7% error from the numerical caluclations and the parameters obtained using the MATLAB code. This error could have been due to the lack of CEA accounting for losses in frozen chemistry which was accounted for in ANSYS Fluent during the species transport of Hydrogen as fuel and Oxygen as oxidiser. 
+A fine mesh was done in order to eliminate any inaccuracies which can occour during meshing.
 
 
 
